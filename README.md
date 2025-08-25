@@ -6,6 +6,11 @@ My passion lies at the intersection of hardware and software. I am deeply fascin
 
 ---
 
+### 🔗 Connect with me
+
+[![Blog](https://img.shields.io/badge/Blog-43B2A1?style=for-the-badge&logo=rss&logoColor=white)](https://haoruanwn.github.io/) [![QQ](https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://user.qzone.qq.com/2054190139/main) [![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/hao-hao-47-61-37) [![RED NOTE](https://img.shields.io/badge/RED%20NOTE-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/64327f37000000000e01e5ef) [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/400231010)
+---
+
 ### 🚀 My Current Interests & Tech Stack
 
 Here are some of the technologies, platforms, and languages I'm currently working with or interested in:
