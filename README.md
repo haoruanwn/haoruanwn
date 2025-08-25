@@ -10,22 +10,11 @@ My passion lies at the intersection of hardware and software. I am deeply fascin
 
 Here are some of the technologies, platforms, and languages I'm currently working with or interested in:
 
-* **Microcontrollers & SoCs:**
-    ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-    ![ESP32](https://img.shields.io/badge/ESP32-E7332E?style=for-the-badge&logo=espressif&logoColor=white)
-    ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-    ![Rockchip](https://img.shields.io/badge/Rockchip-222222?style=for-the-badge&logo=linux&logoColor=orange)
-
-* **Operating Systems & Languages:**
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Armbian](https://img.shields.io/badge/Armbian-496378?style=for-the-badge&logo=armbian&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-    ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-* **Hardware Design Tools:**
-    ![KiCad](https://img.shields.io/badge/KiCad-314188?style=for-the-badge&logo=kicad&logoColor=white)
-    ![JLC EDA](https://img.shields.io/badge/嘉立创EDA-16A459?style=for-the-badge&logoColor=white)
+| Category                      | Technologies & Tools                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Microcontrollers & SoCs** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7332E?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Rockchip](https://img.shields.io/badge/Rockchip-222222?style=for-the-badge&logo=linux&logoColor=orange) |
+| **Operating Systems & Languages** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Armbian](https://img.shields.io/badge/Armbian-496378?style=for-the-badge&logo=armbian&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Hardware Design Tools** | ![KiCad](https://img.shields.io/badge/KiCad-314188?style=for-the-badge&logo=kicad&logoColor=white) ![JLC EDA](https://img.shields.io/badge/嘉立创EDA-16A459?style=for-the-badge&logoColor=white)                                                                                                                                                                                        |
 
 ---
 
