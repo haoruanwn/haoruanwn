@@ -7,10 +7,6 @@ My passion lies in **Linux**, **embedded technologies**, and **open-source hardw
 ---
 
 ### 📊 My GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=haoruanwn&show_icons=true)  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haoruanwn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoruanwn&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+![](https://count.getloli.com/get/@haoruanwn)
